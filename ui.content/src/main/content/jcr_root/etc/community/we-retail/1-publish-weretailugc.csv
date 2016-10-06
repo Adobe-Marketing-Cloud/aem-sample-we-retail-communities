@@ -1,0 +1,8 @@
+# Title: Install User Generated Content,,,,,
+"# Description: This option first creates comments, reviews and ratings on product/article pages for the main we.Retail site",,,,,
+SlingDelete,/content/we-retail/us/en/community,,,,
+# Blackcomb Gloves Women,,,,,
+Reviews,/etc/commerce/products/we-retail/me/coats/meskwielt/jcr:content/reviews.social.json,,,,
+aaron.mcdonald@mailinator.com,0,This is a great coat,Overall;4;,/content/we-retail/us/en/products/equipment/skiing/blackcomb-snow/jcr:content/root/responsivegrid/reviews,we-retail/components/hbs/reviews
+jason.werner@dodgit.com,0,"I agree, super product",Overall;3;,/content/we-retail/us/en/products/equipment/skiing/blackcomb-snow/jcr:content/root/responsivegrid/reviews,we-retail/components/hbs/reviews
+weston.mccall@dodgit.com,0,"Super product, +1!",Overall;3;,/content/we-retail/us/en/products/equipment/skiing/blackcomb-snow/jcr:content/root/responsivegrid/reviews,we-retail/components/hbs/reviews
