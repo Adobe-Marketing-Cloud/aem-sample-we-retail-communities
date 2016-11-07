@@ -1,5 +1,6 @@
 # Title: Install Community Enablement,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "# Description: This option creates Community Enablement content (Videos and SCORM) when the Enablement features are available on the instance. The resources are first created on author, then assigned and published to demo users.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SitePath,/content/we-retail/us/en/community,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 SlingPost,/content/dam/resources,jcr:title,Resources,jcr:description,Resources for Catalog and Enablement functions,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 SlingPost,/content/dam/resources/we-retail,jcr:title,We-Retail,jcr:description,Resources for We-Retail,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 SlingPost,/content/dam/resources/we-retail/communities,jcr:title,Communities,jcr:description,Resources for We-Retail,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
