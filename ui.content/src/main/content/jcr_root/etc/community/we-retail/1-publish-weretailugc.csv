@@ -1,5 +1,6 @@
 # Title: Install User Generated Content,,,,,
 "# Description: This option first creates comments, reviews and ratings on product/article pages for the main we.Retail site",,,,,
+SiteDelete,/content/we-retail/us/en/community/configuration.json,,,,
 SlingDelete,/content/we-retail/us/en/community,,,,
 SlingDelete,/etc/community/templates/sites/custom/we_retail_site,,,,
 SlingDelete,/etc/community/templates/groups/custom/we_retail_group,,,,
