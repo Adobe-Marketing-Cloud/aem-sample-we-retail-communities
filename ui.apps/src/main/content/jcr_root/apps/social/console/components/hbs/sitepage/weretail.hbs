@@ -16,7 +16,7 @@
 {{include this.id path="clientcontext" resourceType="cq/personalization/components/clientcontext"}}
 {{include this.id path="cloudservices" resourceType="cq/cloudserviceconfigs/components/servicecomponents"}}
 {{include this.id path="contexthub" resourceType="granite/contexthub/components/contexthub"}}
-{{includeClientLib categories="we-retail.communities"}}
+{{includeClientLib theme="we-retail.communities"}}
 <div class="container">
 {{include this.id path="/content/we-retail/us/en" resourceType="weretail/components/structure/header"}}
 {{include this.id path="groupnav" resourceType="social/console/components/hbs/groupnavbar"}}
@@ -26,3 +26,4 @@
 <div class="scf-js-site-title" data-id="{{siteId}}" href="{{siteUrl}}.html" style="visibility: hidden;"></div>
 {{include this.id path="/content/we-retail/us/en" resourceType="weretail/components/structure/footer"}}
 </div>
+{{includeClientLib js="we-retail.communities"}}
