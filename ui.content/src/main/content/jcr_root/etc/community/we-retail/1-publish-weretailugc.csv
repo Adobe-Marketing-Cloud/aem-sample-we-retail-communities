@@ -4,6 +4,7 @@ SiteDelete,/content/we-retail/us/en/community/configuration.json,,,,
 SlingDelete,/content/we-retail/us/en/community,,,,
 SlingDelete,/etc/community/templates/sites/custom/we_retail_site,,,,
 SlingDelete,/etc/community/templates/groups/custom/we_retail_group,,,,
+GroupDelete,/home/groups/community,we-retail-,,,
 # Blackcomb Gloves Women,,,,,
 Reviews,/etc/commerce/products/we-retail/me/coats/meskwielt/jcr:content/reviews.social.json,,,,
 aaron.mcdonald@mailinator.com,0,This is a great coat,Overall;4;,/content/we-retail/us/en/products/equipment/skiing/blackcomb-snow/jcr:content/root/responsivegrid/reviews,we-retail/components/hbs/reviews
