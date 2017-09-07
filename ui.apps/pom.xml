@@ -136,6 +136,18 @@
                             <target>/apps/we-retail-communities/install</target>
                         </embedded>
                     </embeddeds>
+                    <dependencies>
+                        <dependency>
+                            <group>adobe/aem6/sample</group>
+                            <name>we.retail.community.apps</name>
+                            <version>[1.0.0,)</version>
+                        </dependency>
+                        <dependency>
+                            <group>adobe/aem6/sample</group>
+                            <name>we.retail.community.content</name>
+                            <version>[1.0.0,)</version>
+                        </dependency>
+                    </dependencies>
                 </configuration>
             </plugin>
         </plugins>
@@ -236,7 +248,7 @@
         <dependency>
             <groupId>com.adobe.aem.demomachine</groupId>
             <artifactId>core</artifactId>
-            <version>0.1.35</version>
+            <version>0.1.36</version>
         </dependency>
     </dependencies>
 </project>

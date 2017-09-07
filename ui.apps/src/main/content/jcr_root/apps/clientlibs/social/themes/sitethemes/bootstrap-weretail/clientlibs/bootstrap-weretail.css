@@ -33,7 +33,7 @@
 @font-face {
     font-family: 'Glyphicons Halflings';
     src: url('/libs/clientlibs/social/themes/sitethemes/scf-skin/resources/fonts/glyphicons-halflings-regular.eot');
-    src: url('/libs/clientlibs/social/themes/sitethemes/scf-skin/resources/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('/libs/clientlibs/social/themes/sitethemes/scf-skin/resources/fonts/glyphicons-halflings-regular.woff') format('woff'), url('/etc/designs/community/sitethemes/scf-skin/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('/libs/clientlibs/social/themes/sitethemes/scf-skin/resources/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+    src: url('/libs/clientlibs/social/themes/sitethemes/scf-skin/resources/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('/libs/clientlibs/social/themes/sitethemes/scf-skin/resources/fonts/glyphicons-halflings-regular.woff') format('woff'), url('/libs/clientlibs/social/themes/sitethemes/scf-skin/resources/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('/libs/clientlibs/social/themes/sitethemes/scf-skin/resources/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
     position: relative;

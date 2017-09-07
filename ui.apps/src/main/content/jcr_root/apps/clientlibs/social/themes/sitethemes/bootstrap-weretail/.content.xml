@@ -2,5 +2,5 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
     jcr:description="bootstrap-united Theme"
     jcr:primaryType="sling:Folder"
-    jcr:title="United Theme"
+    jcr:title="We.Retail Theme"
     sling:resourceType="social/console/components/hbs/sitethemes/sitetheme"/>
