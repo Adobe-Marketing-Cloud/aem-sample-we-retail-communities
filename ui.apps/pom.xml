@@ -23,7 +23,7 @@
     <parent>
         <groupId>we</groupId>
         <artifactId>we.retail.communities</artifactId>
-        <version>1.0.0</version>
+        <version>0.2.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
@@ -121,8 +121,8 @@
                     <group>adobe/aem6/sample</group>
                     <embeddeds>
                         <embedded>
-                            <groupId>com.adobe.aem.demomachine</groupId>
-                            <artifactId>core</artifactId>
+                            <groupId>com.adobe.aem.communities</groupId>
+                            <artifactId>aem-communities-loader</artifactId>
                             <target>/apps/we-retail-communities/install</target>
                         </embedded>
                         <embedded>
@@ -246,9 +246,9 @@
             <version>1.2</version>
         </dependency>
         <dependency>
-            <groupId>com.adobe.aem.demomachine</groupId>
-            <artifactId>core</artifactId>
-            <version>0.1.40</version>
+            <groupId>com.adobe.aem.communities</groupId>
+            <artifactId>aem-communities-loader</artifactId>
+            <version>0.2.0</version>
         </dependency>
     </dependencies>
 </project>

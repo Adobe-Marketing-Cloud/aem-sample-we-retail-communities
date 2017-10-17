@@ -19,7 +19,7 @@
     <groupId>we</groupId>
     <artifactId>we.retail.communities</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.0</version>
+    <version>0.2.0</version>
     <description>We.Retail Communities</description>
     
     <modules>
