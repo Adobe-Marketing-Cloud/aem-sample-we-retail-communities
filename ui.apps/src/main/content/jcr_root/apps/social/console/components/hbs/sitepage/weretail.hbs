@@ -18,12 +18,14 @@
 {{include this.id path="contexthub" resourceType="granite/contexthub/components/contexthub"}}
 {{includeClientLib theme="we-retail.communities"}}
 <div class="container">
-{{include this.id path="/content/we-retail/us/en" resourceType="weretail/components/structure/header"}}
+    <div class="header">
+    {{include this.id path="/conf/we-retail/settings/wcm/templates/hero-page/structure/jcr:content/root/header" resourceType="weretail/components/structure/header"}}
+    </div>
 {{include this.id path="groupnav" resourceType="social/console/components/hbs/groupnavbar"}}
 <div class="container-fluid scf-site-body-content-container">
     {{include this.id path="content"}}
 </div>
 <div class="scf-js-site-title" data-id="{{siteId}}" href="{{siteUrl}}.html" style="visibility: hidden;"></div>
-{{include this.id path="/content/we-retail/us/en" resourceType="weretail/components/structure/footer"}}
+{{include this.id path="/conf/we-retail/settings/wcm/templates/hero-page/structure/jcr:content/root/footer" resourceType="weretail/components/structure/footer"}}
 </div>
 {{includeClientLib js="we-retail.communities"}}
