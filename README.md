@@ -1,6 +1,8 @@
 # aem-sample-we-retail-communities
 
-These files are used to generate the We.Retail Communities demonstration site for AEM 6.2, AEM 6.3. 
+These files are used to generate the We.Retail Communities demonstration site for AEM 6.4.
+
+## For generating We.Retail Communities demonstration site for AEM 6.3, please checkout 6.3 branch 
 
 Once the package is imported, the following CURL command can be used to generate the site:
 
